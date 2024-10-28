@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="amount">Amount</string>
+    <string name="enter_the_transaction_amount">Enter the transaction amount</string>
+    <string name="number_is_invalid">Number is invalid</string>
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="select_symbol">Select symbol</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="calculate_conversion">Calculate conversion</string>
+    <string name="equal">=</string>
+    <string name="currency_converter">Currency converter</string>
+    <string name="refresh">Refresh</string>
+</resources>
